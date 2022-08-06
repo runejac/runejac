@@ -42,6 +42,8 @@
 
 ---
 
-<p>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=runejac&show_icons=true&theme=swift" alt="github stats" />
-</p>
+<div>
+	<img src="https://github-readme-stats.vercel.app/api?username=runejac&show_icons=true&theme=swift" alt="github stats" />
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=runejac&theme=swift" alt="github streak" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=runejac&layout=compact&theme=swift" alt="top languages" />
+</div>
