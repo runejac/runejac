@@ -12,8 +12,8 @@
 
 <div>
 	<ul style="list-style: none">
-		<li>👨‍💻 I’m currently working on my <a href="https://www.runeoliveira.com/" target="_blank">portfolio website</a></li>
-		<li>🧠 I'm learning C#, .NET, Flutter and Swift right now</li>
+		<li>👨‍💻 I sometimes update my <a href="https://www.runeoliveira.com/" target="_blank">portfolio website</a></li>
+		<li>🧠 This fall I'm learning C# & .NET, Ionic & TS & Vue, Swift</li>
 	</ul>
 </div>
 
