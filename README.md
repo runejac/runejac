@@ -15,13 +15,7 @@
 		<li>👨‍💻 I sometimes update my <a href="https://www.runeoliveira.com/" target="_blank">portfolio website</a></li>
 	</ul>
 	<ul style="list-style: none">
-		<li>🧠 This fall I acquire knowledge in:</li>
-		<ul>
-			<li> .NET with focus on design patterns and SOLID principles</li>
-			<li>Cross-platform technologies with Vue, Ionic and TypeScript</li>
-			<li>Swift and iOS development</li>
-			<li>Theory within security in mobile applications, OWASP, identifying vulnerabilities in iOS and Android platforms</li>
-		</ul>
+		<li>🧠 This winter and spring my group and I are working on our bachelor's thesis at Fremtind.</li>
 	</ul>
 </div>
 
