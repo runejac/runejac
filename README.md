@@ -11,10 +11,10 @@
 
 <div>
 	<ul style="list-style: none">
-		<li>👨‍💻 I sometimes update my <a href="https://www.runeoliveira.com/" target="_blank">portfolio website.</a></li>
+		<li>🧙‍♂️ IT consultant at Netcompany</a></li>
 	</ul>
 	<ul style="list-style: none">
-		<li>🧠 This semester my group and I are working on our bachelor's thesis at Fremtind Insurance.</li>
+		<li>👨‍💻 I sometimes update my <a href="https://www.runeoliveira.com/" target="_blank">portfolio website.</a></li>
 	</ul>
 </div>
 
