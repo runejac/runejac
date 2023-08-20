@@ -11,7 +11,7 @@
 
 <div>
 	<ul style="list-style: none">
-		<li>🧙‍♂️ Developer at Netcompany</a></li>
+		<li>🧙‍♂️ Developer at <a href="https://www.netcompany.com/no/" target="_blank">Netcompany</a></li>
 	</ul>
 	<ul style="list-style: none">
 		<li>👨‍💻 I sometimes update my <a href="https://www.runeoliveira.com/" target="_blank">portfolio website.</a></li>
