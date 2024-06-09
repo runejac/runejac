@@ -9,11 +9,4 @@
 
 ---
 
-<div>
-	<ul style="list-style: none">
-		<li>Developer and front-end enthusiast.</li>
-	</ul>
-	<ul style="list-style: none">
-		<li>👨‍💻 I sometimes update my <a href="https://www.runeoliveira.com/" target="_blank">portfolio website.</a></li>
-	</ul>
-</div>
+### Front-End developer
